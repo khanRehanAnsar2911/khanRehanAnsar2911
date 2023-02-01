@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @khanRehanAnsar2911
-- 👀 I’m interested in Technology
+- 👀 I’m interested in learning new things
 - 🌱 I’m currently learning Bachelors in computer science
 - 💞️ I’m looking to collaborate on github as github is the one of the greatest collaborative platform
 - 📫 muhammadrehankhan2911@gmail.com this is mymail id this is way you can reach me 
